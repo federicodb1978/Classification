@@ -22,8 +22,6 @@ Progetto di classificazione sul dataset Iris con scikit-learn. Il lavoro è tutt
 
 Non ci sono build, linter o test: il notebook è l'unico codice.
 
-Aggiunta riga 25
-
 ## Ambiente e comandi
 
 ```bash
