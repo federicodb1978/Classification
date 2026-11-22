@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Regole
 
 - Rispondi sempre in italiano.
-- Lavora sempre su un ramo nuovo, mai su `main`. Le modifiche arrivano su `main` solo tramite PR su GitHub (`federicodb1978/Classification`).
+- Lavora sempre su un ramo nuovo, mai su `main`. Le modifiche arrivano su `main` solo tramite PR su GitHub (`federicodb1978/Classification_exec_Iris`).
 - Per modifiche ampie mostra prima il piano e aspetta conferma.
 - Non creare file che non sono stati chiesti esplicitamente.
 - Non salvare output nei notebook: committa solo il `source` delle celle.
