@@ -18,7 +18,7 @@ Progetto di classificazione sul dataset Iris con scikit-learn. Il lavoro è tutt
 - EDA sul dataset `iris` di seaborn (150 campioni, 4 feature, 3 specie): scatter plot, matrice di correlazione, distribuzioni per specie.
 - Split train/test 75/25 (`random_state=2`) e due `DecisionTreeClassifier` (Gini, `random_state=12`) che differiscono per `min_samples_leaf` (10 e 20).
 - Valutazione con accuracy, classification report e matrice di confusione, più il commento ai risultati in celle markdown.
-- Grafico dell'albero salvato in `my_tree.png` (file generato, ignorato da git).
+- Grafici dei due alberi salvati in `my_tree.png` e `my_tree_2.png` (file generati, ignorati da git).
 
 Non ci sono build, linter o test: il notebook è l'unico codice.
 

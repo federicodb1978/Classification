@@ -3,4 +3,4 @@
 __pycache__/
 .env
 .DS_Store
-my_tree.png
+my_tree*.png
